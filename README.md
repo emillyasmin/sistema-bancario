@@ -1,2 +1,7 @@
-# sistema-bancario
-Sistema bancário que possui as funções de depósito, saque e visualização de extrato.
+# Sistema Bancário
+Sistema bancário construído com a linguagem de programação Python. 
+
+## Funcionalidades:
+#### 1) Depósito;
+#### 2) Saque;
+#### 3) Visualização de extrato.
